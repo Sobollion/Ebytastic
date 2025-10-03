@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Ebytastic.PrjPcb]
+   Generated File[Ebytastic_v0.1_Legend_Top.gbr]
+   Generated File[Ebytastic_v0.1_Paste_Top.gbr]
+   Generated File[Ebytastic_v0.1_Soldermask_Top.gbr]
+   Generated File[Ebytastic_v0.1_Copper_Signal_Top.gbr]
+   Generated File[Ebytastic_v0.1_Copper_Signal_Bot.gbr]
+   Generated File[Ebytastic_v0.1_Soldermask_Bot.gbr]
+   Generated File[Ebytastic_v0.1_Paste_Bot.gbr]
+   Generated File[Ebytastic_v0.1_Legend_Bot.gbr]
+   Generated File[Ebytastic_v0.1_Profile.gbr]
+   Generated File[Ebytastic_v0.1.EXTREP]
+   Generated File[Ebytastic_v0.1.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 23:58:27 On 03.10.2025
