@@ -5,6 +5,6 @@ e22-900m30s/e22-400m30s promicro nRF52840 based meshtastic node with external po
 
 # Description of the PCB
 
-<img src="./EN description.png" width="600">
+<img src="./EN description.png" width="400">
 * PCB based on faketec v4, has 5v input pins, SMA F antenna connector, optional pullups for i2c sensors, and mosfets for optional perepherial devices.
 
