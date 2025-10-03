@@ -2,10 +2,8 @@
 FileName = Ebytastic_v0.1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Paste
-      File : Ebytastic_v0.1_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Layer
+      File : Ebytastic_v0.1_Copper_Signal_Bot.gbr
 
     Adding Layer      : Bottom Layer
 
@@ -13,8 +11,14 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D14
     D24
+    D38
+    D39
+    D40
+    D41
     D42
+    D43
     D44
 *************************************************************
 
@@ -43,70 +47,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Ebytastic_v0.1_Soldermask_Bot.gbr
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D24
-    D33
-    D34
-    D45
-    D46
-    D47
-    D48
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Ebytastic_v0.1_Soldermask_Top.gbr
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D20
-    D21
-    D23
-    D24
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Ebytastic_v0.1_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D13
-    D14
-    D15
-    D16
-    D49
-    D50
-*************************************************************
-
-*************************************************************
 Generating : Top Overlay
       File : Ebytastic_v0.1_Legend_Top.gbr
 
@@ -126,8 +66,10 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Ebytastic_v0.1_Copper_Signal_Bot.gbr
+Generating : Bottom Solder
+      File : Ebytastic_v0.1_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -135,15 +77,13 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D14
     D24
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
+    D33
+    D34
+    D45
+    D46
+    D47
+    D48
 *************************************************************
 
 *************************************************************
@@ -173,6 +113,66 @@ Used DCodes :
     D38
     D39
     D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Ebytastic_v0.1_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D42
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Ebytastic_v0.1_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Ebytastic_v0.1_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D23
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
 *************************************************************
 
 *************************************************************
