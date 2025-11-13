@@ -9,12 +9,13 @@ e22-900m30s/e22-400m30s promicro nRF52840 based meshtastic node with external po
 * PCB based on faketec v4, has 5v input pins, SMA F antenna connector, optional pullups for i2c sensors, and mosfets for optional perepherial devices.
 
 # BOM
-Promicro nRF52 (https://sl.aliexpress.ru/p?key=d8rTV0B)
-Ebyte (https://ozon.ru/t/sY2OWna) 
-Electrolityc cap 100uF 16v (https://sl.aliexpress.ru/p?key=IorTVxA)(я себе взял 220мкФ 16в, (https://sl.aliexpress.ru/p?key=uvrTVZz) кто как хочет)
-Ceramic caps: 2pcs 0.1uF, (https://sl.aliexpress.ru/p?key=m0rTVX8) 1uF, (https://sl.aliexpress.ru/p?key=7QrTVya) 4.7uF (https://sl.aliexpress.ru/p?key=70rTVFE)
-Buttons (https://sl.aliexpress.ru/p?key=q9rTVFM)
-SMA F Edge (https://sl.aliexpress.ru/p?key=TurTVN7)
-Optionally:
-Mosfets (https://sl.aliexpress.ru/p?key=k9rTV0U)
-Resistors 10 kOhm (https://sl.aliexpress.ru/p?key=ukrTVfk)
+* [Promicro nice nano nRF52840](https://sl.aliexpress.ru/p?key=d8rTV0B)
+* [Ebyte E22 900m30s](https://aliexpress.ru/item/4000543921245.html) 
+* [Electrolityc cap 100uF 16v](https://sl.aliexpress.ru/p?key=IorTVxA) [or better 220uF 16v](https://sl.aliexpress.ru/p?key=uvrTVZz)
+* [Ceramic caps: 2pcs 0.1uF,](https://sl.aliexpress.ru/p?key=m0rTVX8) [1uF,](https://sl.aliexpress.ru/p?key=7QrTVya) [4.7uF](https://sl.aliexpress.ru/p?key=70rTVFE)
+* [Buttons](https://sl.aliexpress.ru/p?key=q9rTVFM)
+* [SMA F Edge](https://sl.aliexpress.ru/p?key=TurTVN7)
+
+* Optionally:
+  * [Mosfets](https://sl.aliexpress.ru/p?key=k9rTV0U)
+  * [Resistors 10 kOhm](https://sl.aliexpress.ru/p?key=ukrTVfk)
