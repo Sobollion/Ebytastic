@@ -7,3 +7,15 @@
 
 <img src="./RU description.png" width="400">
 * Плата сделана из faketec v4, имеет ввод 5v, антенный разъём SMA F, опциональные подтяжки для i2c датчиков и мосфеты для опциональной периферии.
+
+# BOM
+* [Promicro nice nano nRF52840](https://sl.aliexpress.ru/p?key=d8rTV0B)
+* [Ebyte E22 900m30s](https://aliexpress.ru/item/4000543921245.html) 
+* [Конденсатор электролитический 100мкФ 16в](https://sl.aliexpress.ru/p?key=IorTVxA) [я себе взял 220мкФ 16в](https://sl.aliexpress.ru/p?key=uvrTVZz)
+* [Конденсаторы керамика: 2шт 0.1мкФ,](https://sl.aliexpress.ru/p?key=m0rTVX8) [1мкФ,](https://sl.aliexpress.ru/p?key=7QrTVya) [4.7мкФ](https://sl.aliexpress.ru/p?key=70rTVFE)
+* [Кнопки](https://sl.aliexpress.ru/p?key=q9rTVFM)
+* [SMA F Edge антенный разъем на край платы](https://sl.aliexpress.ru/p?key=TurTVN7)
+
+* Опционально:
+  * [Мосфеты](https://sl.aliexpress.ru/p?key=k9rTV0U)
+  * [Резисторы 10кОм](https://sl.aliexpress.ru/p?key=ukrTVfk)
