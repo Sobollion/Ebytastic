@@ -11,7 +11,8 @@
 
 # BOM
 * [Promicro nice nano nRF52840](https://sl.aliexpress.ru/p?key=d8rTV0B)
-* [Ebyte E22 900m30s](https://aliexpress.ru/item/4000543921245.html) 
+* [Ebyte E22 900m30s](https://aliexpress.ru/item/4000543921245.html)
+* [Стаб AMS 1117 3.3v](https://aliexpress.ru/item/1005008607449037.html)
 * [Конденсатор электролитический 100мкФ 16в](https://sl.aliexpress.ru/p?key=IorTVxA) [я себе взял 220мкФ 16в](https://sl.aliexpress.ru/p?key=uvrTVZz)
 * [Конденсаторы керамика: 2шт 0.1мкФ,](https://sl.aliexpress.ru/p?key=m0rTVX8) [1мкФ,](https://sl.aliexpress.ru/p?key=7QrTVya) [4.7мкФ](https://sl.aliexpress.ru/p?key=70rTVFE)
 * [Кнопки](https://sl.aliexpress.ru/p?key=q9rTVFM)
