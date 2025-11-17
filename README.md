@@ -12,7 +12,8 @@ e22-900m30s/e22-400m30s promicro nRF52840 based meshtastic node with external po
 
 # BOM
 * [Promicro nice nano nRF52840](https://sl.aliexpress.ru/p?key=d8rTV0B)
-* [Ebyte E22 900m30s](https://aliexpress.ru/item/4000543921245.html) 
+* [Ebyte E22 900m30s](https://aliexpress.ru/item/4000543921245.html)
+* [AMS 1117 3.3v](https://aliexpress.ru/item/1005008607449037.html)
 * [Electrolityc cap 100uF 16v](https://sl.aliexpress.ru/p?key=IorTVxA) [or better 220uF 16v](https://sl.aliexpress.ru/p?key=uvrTVZz)
 * [Ceramic caps: 2pcs 0.1uF,](https://sl.aliexpress.ru/p?key=m0rTVX8) [1uF,](https://sl.aliexpress.ru/p?key=7QrTVya) [4.7uF](https://sl.aliexpress.ru/p?key=70rTVFE)
 * [Buttons](https://sl.aliexpress.ru/p?key=q9rTVFM)
