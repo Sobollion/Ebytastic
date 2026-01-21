@@ -2,6 +2,7 @@
 
 # Ebytastic
 <img src="./Pics/photo_2025-11-18_14-31-56.jpg" width="400">
+
 e22-900m30s/e22-900m33s promicro nRF52840 based meshtastic node with external power supply 5v (max 5.5v) 1A(1.3A momentary for 33dB)
 
 * WARNING! Do not power device from USB and external source simultaneously! It cause LDO damage.
@@ -10,6 +11,7 @@ e22-900m30s/e22-900m33s promicro nRF52840 based meshtastic node with external po
 # Description of the PCB
 
 <img src="./Pics/EN description.png" width="400">
+
 * PCB based on faketec v4, has 5v input pins, SMA F antenna connector, optional pullups for i2c sensors, and mosfets for optional perepherial devices.
 
 # BOM
@@ -30,4 +32,4 @@ e22-900m30s/e22-900m33s promicro nRF52840 based meshtastic node with external po
 * [lupusworax](https://github.com/lupusworax) for sources of [faketec v4](https://github.com/gargomoma/fakeTec_pcb/issues/16)
 
 # [You can also say thanx to me here](https://pay.cloudtips.ru/p/c197b86d)
-<img src="./Pics/qrCode.png" width="400">
+[<img src="./Pics/qrCode.png" width="400">](https://pay.cloudtips.ru/p/c197b86d)

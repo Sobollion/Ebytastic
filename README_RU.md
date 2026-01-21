@@ -2,6 +2,7 @@
 
 # Ебитастик
 <img src="./Pics/photo_2025-11-18_14-31-56.jpg" width="400">
+
 Мештастик нода на модулях e22-900m30s/e22-900m33s и микроконтроллере promicro nRF52840 с внешним питанием 5 вольт (максимум 5.5v) 1 ампер (1.3А в пике для 33дБ).
 
 * ВНИМАНИЕ! Не запитывайте устройство одновременно от USB и внешнего источника! Это может привести к повреждению LDO стабилизатора.
@@ -9,6 +10,7 @@
 # Описание платы
 
 <img src="./Pics/RU description.png" width="400">
+
 * Плата сделана из faketec v4, имеет ввод 5v, антенный разъём SMA F, опциональные подтяжки для i2c датчиков и мосфеты для опциональной периферии.
 
 # BOM
@@ -29,4 +31,4 @@
 * [lupusworax](https://github.com/lupusworax) за сурсы [фейктек v4](https://github.com/gargomoma/fakeTec_pcb/issues/16)
 
 # [Вы таже можете сказать спасибо мне](https://pay.cloudtips.ru/p/c197b86d)
-<img src="./Pics/qrCode.png" width="400">
+[<img src="./Pics/qrCode.png" width="400">](https://pay.cloudtips.ru/p/c197b86d)
