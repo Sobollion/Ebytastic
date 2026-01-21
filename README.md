@@ -24,3 +24,10 @@ e22-900m30s/e22-900m33s promicro nRF52840 based meshtastic node with external po
 * Optionally:
   * [Mosfets](https://sl.aliexpress.ru/p?key=k9rTV0U)
   * [Resistors 10 kOhm](https://sl.aliexpress.ru/p?key=ukrTVfk)
+
+# Thanx
+* [gargomoma](https://github.com/gargomoma) for [faketec](https://github.com/gargomoma/fakeTec_pcb)
+* [lupusworax](https://github.com/lupusworax) for sources of [faketec v4](https://github.com/gargomoma/fakeTec_pcb/issues/16)
+
+# [You can also say thanx to me here](https://pay.cloudtips.ru/p/c197b86d)
+<img src="./Pics/qrCode.png" width="400">
