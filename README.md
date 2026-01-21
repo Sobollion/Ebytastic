@@ -2,8 +2,9 @@
 
 # Ebytastic
 <img src="./photo_2025-11-18_14-31-56.jpg" width="400">
-e22-900m30s/e22-400m30s promicro nRF52840 based meshtastic node with external power supply 5v (max 5.5v) 1A
-- WARNING! Do not power device from USB and external source simultaneously! It cause LDO damage.
+e22-900m30s/e22-900m33s promicro nRF52840 based meshtastic node with external power supply 5v (max 5.5v) 1A(1.3A momentary for 33dB)
+
+* WARNING! Do not power device from USB and external source simultaneously! It cause LDO damage.
 
 
 # Description of the PCB

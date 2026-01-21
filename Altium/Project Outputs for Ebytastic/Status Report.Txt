@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ebytastic.PrjPcb]
+   Generated File[Ebytastic_v0.1-Plated.TXT]
+   Generated File[Ebytastic_v0.1.LDP]
+   Generated File[Ebytastic_v0.1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 0:55:17 On 04.10.2025
