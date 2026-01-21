@@ -8,7 +8,7 @@
 
 # Описание платы
 
-<img src="./RU description.png" width="400">
+<img src="./Pics/RU description.png" width="400">
 * Плата сделана из faketec v4, имеет ввод 5v, антенный разъём SMA F, опциональные подтяжки для i2c датчиков и мосфеты для опциональной периферии.
 
 # BOM
